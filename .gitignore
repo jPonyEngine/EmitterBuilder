@@ -45,3 +45,9 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.jar
+*.class
+build/built-jar.properties
+*.dll
+nbproject/private/config.properties
+nbproject/private/private.xml
